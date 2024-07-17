@@ -13,5 +13,9 @@
 ### Переводим задачу типа epic в след. состояние из ON_DEVELOP, видим, что выбрать можно только два OPEN и DONE DEVELOP, согласно workflow
 ![изображение](https://github.com/user-attachments/assets/e1be8330-44a1-4f58-a697-a5fa0019f302)
 
+### Общий вид движения по статусам
+![изображение](https://github.com/user-attachments/assets/100f3cc9-7f11-42ca-a7e3-23de3ae4664d)
+
+
 
 
