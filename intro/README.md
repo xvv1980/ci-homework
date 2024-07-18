@@ -25,6 +25,10 @@
 ### Перемещаем по статусам спринт с багой
 ![изображение](https://github.com/user-attachments/assets/e4af32eb-86bb-4eb3-bb4b-3346ebfdb2f5)
 
+### Завершаем
+![изображение](https://github.com/user-attachments/assets/5990faef-c166-4872-b4f1-93a799799ab0)
+
+
 
 
 
