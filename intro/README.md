@@ -1,4 +1,4 @@
-# Процесс создания workflow
+### Процесс создания workflow
   Проект в jira связан c созданными workflow для задач типа bug и все остальные.
  
   - [Файл xml workflow для bug](xvv1980-wrkflw.xml)
@@ -15,6 +15,19 @@
 
 ### Общий вид движения по статусам
 ![изображение](https://github.com/user-attachments/assets/100f3cc9-7f11-42ca-a7e3-23de3ae4664d)
+
+### Создаем SCRUM board
+![изображение](https://github.com/user-attachments/assets/a8bf8c7d-2ab8-4082-b2be-b4bb02e346ac)
+
+### Создали два sprint-а , один для bug, второй для debelop
+![изображение](https://github.com/user-attachments/assets/1d7a5bf0-f9bb-4b26-8aa0-8138f5735fe3)
+
+### Перемещаем по статусам спринт с багой
+![изображение](https://github.com/user-attachments/assets/e4af32eb-86bb-4eb3-bb4b-3346ebfdb2f5)
+
+
+
+
 
 
 
